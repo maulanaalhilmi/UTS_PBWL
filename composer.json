@@ -1,0 +1,14 @@
+{
+    "name": "hilmi/zakatsilahturahmi-martubung",
+    "description": "Sistem Informasi Zakat Mesjid Silaturahmi Martubung",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "authors": [
+        {
+            "name": "Maulana Al Hilmi",
+            "email": "maulanahilmi54@gmail.com"
+        }
+    ]
+}
